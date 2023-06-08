@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 A simple QR code scanner made by flutter framework that saves the data of the QR code in the Firebase cloud Firestore databse, with Firebase Authentication.
+<img src = "https://github.com/Bhanubpsn/Images_for_projects/blob/master/qr-scanner/Screenshot_2023-06-08-07-57-39-63_e8efb324f23edca8834ffb2ac560b5f0.jpg" >
